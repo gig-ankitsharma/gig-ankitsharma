@@ -77,7 +77,7 @@
 <p align="left">
   <img
     width="48%"
-    src="https://github-readme-stats-gules-eight-41.vercel.app/api?username=gig-ankitsharma&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23"
+    src="https://github-readme-stats-gules-eight-41.vercel.app/api?username=gig-ankitsharma&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23&v=2"
     alt="GitHub stats Card"
   />
   <img
@@ -90,7 +90,7 @@
 <p align="left">
   <img
     width="48%"
-    src="https://github-readme-stats-gules-eight-41.vercel.app/api/top-langs?username=gig-ankitsharma&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400"
+    src="https://github-readme-stats-gules-eight-41.vercel.app/api/top-langs?username=gig-ankitsharma&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&v=2"
     alt="GitHub top-langs Card"
   />
 </p>
